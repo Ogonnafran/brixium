@@ -1,0 +1,5 @@
+{
+  "name": "Brixium Global Bank",
+  "description": "A futuristic online banking application with user and admin interfaces, featuring real-time updates, transfers, KYC, and system management. Built with React, TypeScript, and TailwindCSS.",
+  "requestFramePermissions": []
+}
